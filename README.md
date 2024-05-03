@@ -1,12 +1,14 @@
 ### Hi there 👋 
 
 
-My name is Romy. I’m currently learning Python as part of a bootcamp for **Data Scientist** at CoGrammar. 
+My name is Romy. I’m currently learning Python as part of a bootcamp for **Data Scientist** at HyperionDev. 
 
 ##### So far I have learned: 
 * Iteration and functions 
 * File text IO 
-* Object-oriented programming 
+* Object-oriented programming
+* NumPy, Pandas, Scikit learn
+* Fundamental Machine Learning 
 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/r-b-6403a92b8?trk=contact-info)
