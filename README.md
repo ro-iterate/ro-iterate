@@ -11,7 +11,7 @@ My name is Romy. I’m currently learning Python as part of a bootcamp for **Dat
 * Fundamental Machine Learning 
 
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/r-b-6403a92b8?trk=contact-info)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/romyb-)
  
 <!--
 **ro-iterate/ro-iterate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
